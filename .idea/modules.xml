@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IntermediateJava.iml" filepath="$PROJECT_DIR$/IntermediateJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1_Tallest_Player/P1_Tallest_Player.iml" filepath="$PROJECT_DIR$/P1_Tallest_Player/P1_Tallest_Player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2_Honors_Society/P2_Honors_Society.iml" filepath="$PROJECT_DIR$/P2_Honors_Society/P2_Honors_Society.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P3_Trip_Cost_Estimator/P3_Trip_Cost_Estimator.iml" filepath="$PROJECT_DIR$/P3_Trip_Cost_Estimator/P3_Trip_Cost_Estimator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P4_Time_Interval/P4_Time_Interval.iml" filepath="$PROJECT_DIR$/P4_Time_Interval/P4_Time_Interval.iml" />
+    </modules>
+  </component>
+</project>
